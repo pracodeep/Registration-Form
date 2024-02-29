@@ -1,0 +1,38 @@
+.main{
+    background-image: image(url(https://images.pexels.com/photos/34231/antler-antler-carrier-fallow-deer-hirsch.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1));
+    padding: 20px;
+    font-family: Arial;
+    box-shadow: 5px 7px 5px gray;
+}
+
+.main.h1{
+
+    font-size: 36px;
+    text-align: center;
+    font-family: Arial;
+
+}
+input{
+    font-family: Arial;
+    width: 100%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-radius: 0%;
+    border-bottom: 2px solid black;
+
+
+}
+
+input[type=submit]{
+
+    font-family: Arial;
+    width: 100%;
+    background-color: aqua;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+
+}
